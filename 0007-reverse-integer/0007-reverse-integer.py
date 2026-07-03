@@ -4,11 +4,11 @@ class Solution(object):
         :type x: int
         :rtype: int
         """
-        p,z=0,0
+        p=0
         m=abs(n)
         while(m!=0):
-            z=m%10
-            p=p*10+z
+            
+            p=p*10+m%10
             m=m//10
         if p<-2**31 or p>2**31-1:
             return 0
