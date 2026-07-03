@@ -4,6 +4,7 @@ class Solution(object):
         :type x: int
         :rtype: int
         """
+        sign=-1 if n<0 else 1
         p=0
         m=abs(n)
         while(m!=0):
@@ -12,9 +13,9 @@ class Solution(object):
             m=m//10
         if p<-2**31 or p>2**31-1:
             return 0
-        elif n<0:
-            return -p
-        else:return p
+        else:
+            return p*sign
+    
 
     
 
