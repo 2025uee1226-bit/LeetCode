@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/2025uee1226-bit/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/2025uee1226-bit/LeetCode/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/2025uee1226-bit/LeetCode/tree/master/0258-add-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/2025uee1226-bit/LeetCode/tree/master/0088-merge-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/2025uee1226-bit/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/2025uee1226-bit/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
