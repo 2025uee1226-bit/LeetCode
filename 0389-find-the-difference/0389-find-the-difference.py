@@ -12,11 +12,8 @@ class Solution(object):
         while(i<len(s)):
             if s[i]!=t[j]:
                 return t[j]
-                break
-                
-            else:
-                j+=1
-                i+=1
+            i+=1
+            j+=1
         j+=1
         if j>i:
             return t[-1]
