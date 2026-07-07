@@ -4,9 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        nums=list(set(nums))
-        nums.sort()
-        if len(nums)>2:
-            return nums[-3]
+        a=list(set(nums))
+        a.sort()
+        if len(a)>2:
+            return a[-3]
         else:
-            return nums[-1]
+            return a[-1]
