@@ -5,8 +5,12 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
-        s=set()
+        nums1.sort()
+        nums2.sort()
+        s=[]
+
         for i in range(len(nums1)):
-            if (nums1[i] in nums2) and (nums1[i] not in s):
-                s.add(nums1[i])
-        return list(s)
+            if (nums1[i] in nums2):
+                s.append(nums1[i])
+                
+        return list(set(s))
