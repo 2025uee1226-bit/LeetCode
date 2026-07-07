@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/2025uee1226-bit/LeetCode/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/2025uee1226-bit/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/2025uee1226-bit/LeetCode/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/2025uee1226-bit/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/2025uee1226-bit/LeetCode/tree/master/0164-maximum-gap) |
 | [0349-intersection-of-two-arrays](https://github.com/2025uee1226-bit/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/2025uee1226-bit/LeetCode/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -62,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/2025uee1226-bit/LeetCode/tree/master/0164-maximum-gap) |
+## String
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/2025uee1226-bit/LeetCode/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/2025uee1226-bit/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
