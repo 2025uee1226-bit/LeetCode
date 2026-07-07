@@ -14,6 +14,4 @@ class Solution(object):
                 return t[j]
             i+=1
             j+=1
-        j+=1
-        if j>i:
-            return t[-1]
+        return t[-1]
