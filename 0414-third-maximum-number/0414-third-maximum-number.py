@@ -6,7 +6,7 @@ class Solution(object):
         """
         a=list(set(nums))
         a.sort()
-        if len(a)>2:
+        if len(a) > 2:
             return a[-3]
         else:
             return a[-1]
