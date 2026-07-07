@@ -5,10 +5,11 @@ class Solution(object):
         :rtype: int
         """
         m=0
-        i,j=0,1
+        i,j,p=0,1,0
         nums.sort()
         while j<len(nums):
-            m=max(m,nums[j]-nums[i])
+            p=nums[j]-nums[i]
+            m=max(m,p)
             i+=1
             j+=1
         return m
