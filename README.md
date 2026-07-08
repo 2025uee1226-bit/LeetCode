@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/2025uee1226-bit/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/2025uee1226-bit/LeetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/2025uee1226-bit/LeetCode/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/2025uee1226-bit/LeetCode/tree/master/0258-add-digits) |
 ## Binary Search
 |  |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/2025uee1226-bit/LeetCode/tree/master/0389-find-the-difference) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/2025uee1226-bit/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
