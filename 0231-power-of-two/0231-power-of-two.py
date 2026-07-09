@@ -4,16 +4,9 @@ class Solution(object):
         :type n: int
         :rtype: bool
         """
-
-        if n<=0 :
+        if n<1:
             return False
         else:
-            i=0
-            while 2**i<=n:
-                if 2**i==n:
-                    return True
-                
-                i+=1
-        return False
-        
-        
+            while n%2==0:
+                n=n//2
+        return n==1
