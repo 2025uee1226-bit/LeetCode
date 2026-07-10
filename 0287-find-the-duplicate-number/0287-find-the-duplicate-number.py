@@ -8,12 +8,14 @@ class Solution(object):
         l=0
         m=1
         r=len(nums)
-        while(l<r):
+        while(m<r):
             if nums[l]==nums[m]:
-                return nums[l]
+                break
+                
             else:
                 m+=1
                 l+=1
+        return nums[l]
 
 
 
