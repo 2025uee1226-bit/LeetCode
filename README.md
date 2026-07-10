@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/2025uee1226-bit/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/2025uee1226-bit/LeetCode/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/2025uee1226-bit/LeetCode/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/2025uee1226-bit/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/2025uee1226-bit/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/2025uee1226-bit/LeetCode/tree/master/0414-third-maximum-number) |
 ## Hash Table
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/2025uee1226-bit/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/2025uee1226-bit/LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/2025uee1226-bit/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/2025uee1226-bit/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/2025uee1226-bit/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/2025uee1226-bit/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/2025uee1226-bit/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/2025uee1226-bit/LeetCode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/2025uee1226-bit/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/2025uee1226-bit/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/2025uee1226-bit/LeetCode/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/2025uee1226-bit/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/2025uee1226-bit/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/2025uee1226-bit/LeetCode/tree/master/0389-find-the-difference) |
 ## Recursion
