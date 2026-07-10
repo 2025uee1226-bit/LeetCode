@@ -7,9 +7,9 @@ class Solution(object):
         nums.sort()
         l=0
         m=1
-        r=len(nums)
-        while(m<r):
-            if nums[l]==nums[m]:
+        r= len(nums)
+        while (l<r):
+            if nums[l] == nums[m]:
                 break
                 
             else:
