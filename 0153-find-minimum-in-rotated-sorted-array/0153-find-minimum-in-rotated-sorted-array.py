@@ -4,7 +4,5 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        m=nums[0]
-        for i in range(0,len(nums)):
-            m=min(m,nums[i])
-        return m
+        
+        return min(nums)
