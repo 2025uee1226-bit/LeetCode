@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/2025uee1226-bit/LeetCode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/2025uee1226-bit/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/2025uee1226-bit/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
+| [1550-three-consecutive-odds](https://github.com/2025uee1226-bit/LeetCode/tree/master/1550-three-consecutive-odds) |
 ## Hash Table
 |  |
 | ------- |
