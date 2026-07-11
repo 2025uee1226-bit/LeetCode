@@ -5,5 +5,6 @@ class Solution(object):
         :rtype: List[int]
         """
         p=[x**2 for x in nums]
-        return sorted(p)
+        p.sort()
+        return p
         
