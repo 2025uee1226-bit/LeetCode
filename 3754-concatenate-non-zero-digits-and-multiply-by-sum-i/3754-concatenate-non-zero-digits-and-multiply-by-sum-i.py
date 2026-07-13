@@ -1,13 +1,13 @@
 class Solution(object):
-    def sumAndMultiply(self, n):
+    def sumAndMultiply(self, p):
         """
         :type n: int
         :rtype: int
         """
-        p=str(n)
+        p=str(p)
         s=0
         r=""
-        if n==0:
+        if p=="0":
             return 0
         else:
             for  i in range(len(p)):
