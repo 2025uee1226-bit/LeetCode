@@ -7,13 +7,13 @@ class Solution(object):
         p=str(p)
         s=0
         r=""
-        if p=="0":
+        if p =="0":
             return 0
         else:
             for  i in range(len(p)):
                 if p[i]!="0":
-                    r+=p[i]
-                    s+=int(p[i])
+                    r+= p[i]
+                    s+= int(p[i])
         
             return int(r)*s
 
