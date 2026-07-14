@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/2025uee1226-bit/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1550-three-consecutive-odds](https://github.com/2025uee1226-bit/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/2025uee1226-bit/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2574-left-and-right-sum-differences](https://github.com/2025uee1226-bit/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/2025uee1226-bit/LeetCode/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/2025uee1226-bit/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
