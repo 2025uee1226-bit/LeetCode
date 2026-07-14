@@ -5,8 +5,8 @@ class Solution(object):
         :type word: str
         :rtype: int
         """
-        c=0
+        s=0
         for i in range(len(pattern)):
             if pattern[i] in word:
-                c+=1
-        return c
+                s+=1
+        return s
