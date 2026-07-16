@@ -4,9 +4,7 @@ class Solution(object):
         :type moves: str
         :rtype: bool
         """
-        u=0
-        d=0
-        r,l=0,0
+        u,r,l,d=0,0,0,0
     
         for i in range(len(moves)):
             if moves[i]=="U":
