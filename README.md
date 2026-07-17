@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/2025uee1226-bit/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/2025uee1226-bit/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/2025uee1226-bit/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/2025uee1226-bit/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/2025uee1226-bit/LeetCode/tree/master/0268-missing-number) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/2025uee1226-bit/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0389-find-the-difference](https://github.com/2025uee1226-bit/LeetCode/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/2025uee1226-bit/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/2025uee1226-bit/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/2025uee1226-bit/LeetCode/tree/master/0292-nim-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/2025uee1226-bit/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
