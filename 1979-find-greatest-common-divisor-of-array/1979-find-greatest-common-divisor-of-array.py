@@ -5,9 +5,9 @@ class Solution(object):
         :rtype: int
         """
         m=0
-        nums.sort()
-        p=nums[0]
-        s=nums[-1]
+        
+        p=min(nums)
+        s=max(nums)
         for i in range(1,s+1):
             if p%i==0 and s%i==0:
                 m=max(i,m)
