@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2025uee1226-bit/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/2025uee1226-bit/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/2025uee1226-bit/LeetCode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/2025uee1226-bit/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/2025uee1226-bit/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/2025uee1226-bit/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/2025uee1226-bit/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/2025uee1226-bit/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/2025uee1226-bit/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/2025uee1226-bit/LeetCode/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/2025uee1226-bit/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/2025uee1226-bit/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/2025uee1226-bit/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/2025uee1226-bit/LeetCode/tree/master/0389-find-the-difference) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/2025uee1226-bit/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/2025uee1226-bit/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/2025uee1226-bit/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/2025uee1226-bit/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/2025uee1226-bit/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/2025uee1226-bit/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/2025uee1226-bit/LeetCode/tree/master/0389-find-the-difference) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/2025uee1226-bit/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/2025uee1226-bit/LeetCode/tree/master/0229-majority-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
