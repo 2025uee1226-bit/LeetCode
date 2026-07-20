@@ -5,9 +5,4 @@ class Solution(object):
         :type digit: int
         :rtype: int
         """
-        c=0
-        for num in nums:
-            for d in str(num):
-                if d == str(digit):
-                    c+=1
-        return c
+        return str(nums).count(str(digit))
