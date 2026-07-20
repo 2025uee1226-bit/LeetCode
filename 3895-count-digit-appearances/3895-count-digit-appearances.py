@@ -8,6 +8,6 @@ class Solution(object):
         c=0
         for num in nums:
             for d in str(num):
-                if d==str(digit):
+                if d == str(digit):
                     c+=1
         return c
