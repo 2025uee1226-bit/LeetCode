@@ -7,10 +7,10 @@ class Solution(object):
         """
         less,great,equal=[],[],[]
         
-        for i in range(len(nums)):
-            if nums[i]<pivot:
+        for i in range (len(nums)):
+            if nums[i] < pivot:
                 less.append(nums[i])
-            elif nums[i]>pivot:
+            elif nums[i] > pivot:
                 great.append(nums[i])
             else:
                 equal.append(nums[i])
