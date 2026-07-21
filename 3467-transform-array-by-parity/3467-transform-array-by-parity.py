@@ -4,10 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        p=[]
-        for i in nums:
-            if i%2==0:
-                p.append(0)
+        for i in range(len(nums)):
+            if nums[i]%2==0:
+                nums[i]=0
             else:
-                p.append(1)
-        return sorted(p)
+                nums[i]=1
+        return sorted(nums)
