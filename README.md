@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/2025uee1226-bit/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/2025uee1226-bit/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3701-compute-alternating-sum](https://github.com/2025uee1226-bit/LeetCode/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/2025uee1226-bit/LeetCode/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/2025uee1226-bit/LeetCode/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/2025uee1226-bit/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/2025uee1226-bit/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/2025uee1226-bit/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [3731-find-missing-elements](https://github.com/2025uee1226-bit/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/2025uee1226-bit/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/2025uee1226-bit/LeetCode/tree/master/1051-height-checker) |
 | [3467-transform-array-by-parity](https://github.com/2025uee1226-bit/LeetCode/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/2025uee1226-bit/LeetCode/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
