@@ -5,11 +5,18 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        for i in range(0,len(nums)):
-            c=nums[i]
-            x=target-c
-            if x in nums and nums.index(x)!=i:
-                    list=[i,nums.index(x)]
-                    return list
+        p=0
+        c=[]
+        for i in range(len(nums)):
+            p=target-nums[i]
+            for j in range(i+1,len(nums)):
+                if p == nums[j]:
+                    c.append(i)
+                    c.append(j)
+                
+        return c
+            
+
+
 
 
