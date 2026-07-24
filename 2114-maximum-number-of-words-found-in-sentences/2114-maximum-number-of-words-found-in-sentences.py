@@ -7,9 +7,9 @@ class Solution(object):
         c=0
         m=0
         for i in range(len(sentence)):
-            p=sentence[i].strip()
+            sentence[i]=sentence[i].strip()
             c=0
-            for w in p:
+            for w in sentence[i]:
                 if w==" ":
                     c+=1
             m=max(m,c+1)
