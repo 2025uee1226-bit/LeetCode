@@ -3,7 +3,7 @@ class Solution(object):
         """
         :type sentences: List[str]
         :rtype: int
-        """
+        
         c=0
         m=0
         for i in range(len(sentence)):
@@ -14,3 +14,8 @@ class Solution(object):
                     c+=1
             m=max(m,c+1)
         return m
+                """
+        p=0
+        for num in sentence:
+            p=max(p,len(num.split()))
+        return p
