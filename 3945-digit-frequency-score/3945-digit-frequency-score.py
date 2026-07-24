@@ -3,7 +3,7 @@ class Solution(object):
         """
         :type n: int
         :rtype: int
-        """
+        
         
         hashset=[0]*10
         for num in str(n):
@@ -11,6 +11,10 @@ class Solution(object):
         s=0
         for digit,frequency  in enumerate(hashset):
             s+=digit*frequency
-        return s
+        return s"""
+        sum=0
+        for char in str(n):
+            sum+=int(char)
+        return sum
 
         
