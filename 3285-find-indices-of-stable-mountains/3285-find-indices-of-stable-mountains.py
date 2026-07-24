@@ -5,9 +5,6 @@ class Solution(object):
         :type threshold: int
         :rtype: List[int]
         """
-        l=[]
-        for i in range(1,len(height)):
-            if height[i-1]> threshold :
-                l.append(i)
-        return l
+        p=[i for i in range(1,len(height)) if height[i-1]>threshold]
+        return p
         
