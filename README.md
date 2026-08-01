@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2025uee1226-bit/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2025uee1226-bit/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/2025uee1226-bit/LeetCode/tree/master/2427-number-of-common-factors) |
+| [2843-count-symmetric-integers](https://github.com/2025uee1226-bit/LeetCode/tree/master/2843-count-symmetric-integers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/2025uee1226-bit/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/2025uee1226-bit/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/2025uee1226-bit/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/2025uee1226-bit/LeetCode/tree/master/2427-number-of-common-factors) |
+| [2843-count-symmetric-integers](https://github.com/2025uee1226-bit/LeetCode/tree/master/2843-count-symmetric-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
