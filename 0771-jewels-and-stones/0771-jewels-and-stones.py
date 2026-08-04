@@ -10,9 +10,17 @@ class Solution(object):
         for ch in jewels:
             if ch in stones:
                 count+=st[ch]
-        return count"""
+        return count
+        
+        
         count=0
         for ch in jewels:
             if ch in stones:
                 count+=stones.count(ch)
+        return count"""
+        count=0
+        for ch in stones:
+            for ch2 in jewels:
+                if ch==ch2:
+                    count+=1
         return count
