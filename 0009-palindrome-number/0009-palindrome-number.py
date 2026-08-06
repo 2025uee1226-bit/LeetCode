@@ -3,12 +3,13 @@ class Solution(object):
         """
         :type x: int
         :rtype: bool
-        """
+      
         p=x
         c=0
     
         while(x>0):
             c= c*10+x%10
             x=x//10
-        return c==p
+        return c==p"""
+        return str(x)==str(x)[::-1]
             
