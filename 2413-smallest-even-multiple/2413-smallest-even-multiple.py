@@ -4,8 +4,8 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        for i in range(2,10**6,2):
-            if i%2==0 and i%n==0:
-                return i
+        if n%2==0:
+            return n
+        return n*2
                 
         
