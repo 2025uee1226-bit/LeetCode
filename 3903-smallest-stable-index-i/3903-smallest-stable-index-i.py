@@ -6,10 +6,12 @@ class Solution(object):
         :rtype: int
         """
         n=len(nums)
+        diff=0
       
         for i in range(len(nums)):
             mx=max(nums[0:i+1])
             mn=min(nums[i:n])
-            if mx-mn<=k:
+            diff= mx-mn
+            if diff <=k:
                 return i
         return -1
