@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/2025uee1226-bit/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/2025uee1226-bit/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2025uee1226-bit/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1903-largest-odd-number-in-string](https://github.com/2025uee1226-bit/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2025uee1226-bit/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/2025uee1226-bit/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/2025uee1226-bit/LeetCode/tree/master/2427-number-of-common-factors) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/2025uee1226-bit/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/2025uee1226-bit/LeetCode/tree/master/1816-truncate-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/2025uee1226-bit/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/2025uee1226-bit/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/2025uee1226-bit/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/2025uee1226-bit/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/2025uee1226-bit/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2025uee1226-bit/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/2025uee1226-bit/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
