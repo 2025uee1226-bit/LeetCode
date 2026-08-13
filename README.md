@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/2025uee1226-bit/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/2025uee1226-bit/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/2025uee1226-bit/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/2025uee1226-bit/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/2025uee1226-bit/LeetCode/tree/master/0509-fibonacci-number) |
@@ -321,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/2025uee1226-bit/LeetCode/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/2025uee1226-bit/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/2025uee1226-bit/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/2025uee1226-bit/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
