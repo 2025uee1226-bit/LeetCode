@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/2025uee1226-bit/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/2025uee1226-bit/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3285-find-indices-of-stable-mountains](https://github.com/2025uee1226-bit/LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/2025uee1226-bit/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/2025uee1226-bit/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/2025uee1226-bit/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/2025uee1226-bit/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/2025uee1226-bit/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2540-minimum-common-value](https://github.com/2025uee1226-bit/LeetCode/tree/master/2540-minimum-common-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/2025uee1226-bit/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/2025uee1226-bit/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/2025uee1226-bit/LeetCode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/2025uee1226-bit/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/2025uee1226-bit/LeetCode/tree/master/3731-find-missing-elements) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/2025uee1226-bit/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/2025uee1226-bit/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2843-count-symmetric-integers](https://github.com/2025uee1226-bit/LeetCode/tree/master/2843-count-symmetric-integers) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/2025uee1226-bit/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/2025uee1226-bit/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/2025uee1226-bit/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/2025uee1226-bit/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
