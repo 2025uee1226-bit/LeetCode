@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2025uee1226-bit/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/2025uee1226-bit/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/2025uee1226-bit/LeetCode/tree/master/2427-number-of-common-factors) |
+| [2469-convert-the-temperature](https://github.com/2025uee1226-bit/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2843-count-symmetric-integers](https://github.com/2025uee1226-bit/LeetCode/tree/master/2843-count-symmetric-integers) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/2025uee1226-bit/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/2025uee1226-bit/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
