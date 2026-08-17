@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/2025uee1226-bit/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/2025uee1226-bit/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/2025uee1226-bit/LeetCode/tree/master/2706-buy-two-chocolates) |
+| [2942-find-words-containing-character](https://github.com/2025uee1226-bit/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3285-find-indices-of-stable-mountains](https://github.com/2025uee1226-bit/LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/2025uee1226-bit/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/2025uee1226-bit/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/2025uee1226-bit/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/2025uee1226-bit/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/2025uee1226-bit/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2942-find-words-containing-character](https://github.com/2025uee1226-bit/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/2025uee1226-bit/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/2025uee1226-bit/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3798-largest-even-number](https://github.com/2025uee1226-bit/LeetCode/tree/master/3798-largest-even-number) |
