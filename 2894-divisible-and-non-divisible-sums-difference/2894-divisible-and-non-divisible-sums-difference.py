@@ -4,11 +4,18 @@ class Solution(object):
         :type n: int
         :type m: int
         :rtype: int
-        """
+        
         div,ndiv=[],[]
         for i in range(1,n+1):
             if i%m==0:
                 div.append(i)
             else:
                 ndiv.append(i)
-        return sum(ndiv)-sum(div)
+        return sum(ndiv)-sum(div)"""
+        div,ndiv=0,0
+        for i in range(1,n+1):
+            if i%m==0:
+                div+=i
+            else:
+                ndiv+=i
+        return ndiv-div
