@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/2025uee1226-bit/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/2025uee1226-bit/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2942-find-words-containing-character](https://github.com/2025uee1226-bit/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/2025uee1226-bit/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/2025uee1226-bit/LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/2025uee1226-bit/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/2025uee1226-bit/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/2025uee1226-bit/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/2025uee1226-bit/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/2025uee1226-bit/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/2025uee1226-bit/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/2025uee1226-bit/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/2025uee1226-bit/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Number Theory
