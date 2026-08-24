@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/2025uee1226-bit/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/2025uee1226-bit/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/2025uee1226-bit/LeetCode/tree/master/2469-convert-the-temperature) |
+| [2485-find-the-pivot-integer](https://github.com/2025uee1226-bit/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2843-count-symmetric-integers](https://github.com/2025uee1226-bit/LeetCode/tree/master/2843-count-symmetric-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/2025uee1226-bit/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/2025uee1226-bit/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2485-find-the-pivot-integer](https://github.com/2025uee1226-bit/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/2025uee1226-bit/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/2025uee1226-bit/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Brainteaser
