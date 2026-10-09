@@ -8,9 +8,12 @@ class Solution(object):
         for i in range(len(nums)):
             if nums[i]==target:
                     return i
-        return -1"""
+        return -1
         for num in nums:
             if num==target:
                 return nums.index(target)
+        return -1"""
+        if target in nums:
+            return nums.index(target)
         return -1
         
