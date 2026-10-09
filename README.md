@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/2025uee1226-bit/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/2025uee1226-bit/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1796-second-largest-digit-in-a-string](https://github.com/2025uee1226-bit/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/2025uee1226-bit/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/2025uee1226-bit/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2540-minimum-common-value](https://github.com/2025uee1226-bit/LeetCode/tree/master/2540-minimum-common-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/2025uee1226-bit/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/2025uee1226-bit/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1796-second-largest-digit-in-a-string](https://github.com/2025uee1226-bit/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1816-truncate-sentence](https://github.com/2025uee1226-bit/LeetCode/tree/master/1816-truncate-sentence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/2025uee1226-bit/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/2025uee1226-bit/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/2025uee1226-bit/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/2025uee1226-bit/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
