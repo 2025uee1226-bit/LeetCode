@@ -3,7 +3,7 @@ class Solution(object):
         """
         :type x: int
         :rtype: int
-        """
+        
         sign=-1 if n<0 else 1
         p=0
         m=abs(n)
@@ -14,7 +14,22 @@ class Solution(object):
         if p<-2**31 or p>2**31-1:
             return 0
         else:
-            return p*sign
+            return p*sign"""
+        sign=0
+        s=""
+        rev=""
+        if n<0:
+            sign=-1
+        else:
+            sign=1
+        m=abs(n)
+        s=str(m)
+        rev=s[::-1]
+        if int(rev)<-2**31 or int(rev)>2**31-1:
+            return 0
+        else:
+            return int(rev)*sign
+        
     
 
     
