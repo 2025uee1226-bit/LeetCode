@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: int
         """
         n=len(nums)
-        i=1
+        
         if n ==1:
             return 0
         elif nums[n-1]>nums[n-2]:
