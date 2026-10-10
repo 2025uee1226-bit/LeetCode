@@ -14,14 +14,18 @@ class Solution(object):
         while p>0:
             u.append(p%10)
             p=p//10
-        return u[::-1]"""
+        return u[::-1]
        
         for i in range(len(digits)-1,-1,-1):
             if digits[i]!=9:
                 digits[i]+=1
                 return digits
             digits[i]=0
-        return [1]+digits
+        return [1]+digits"""
+        dig="".join(str(d) for d in digits)
+        p=int(dig)+1
+    
+        return [int(d)for d in str(p)]
             
 
 
