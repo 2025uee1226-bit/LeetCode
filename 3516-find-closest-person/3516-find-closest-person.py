@@ -8,6 +8,6 @@ class Solution(object):
         """
         if abs(z-x) > abs(z-y):
             return 2
-        elif abs(x-z)<abs(z-y):
+        elif abs(x-z) < abs(z-y):
             return 1
         return 0
