@@ -2,8 +2,8 @@ class Solution(object):
     def halvesAreAlike(self, s):
         """
         :type s: str
-        :rtype: bool
-        """
+        :rtype: bool"""
+        
         c1,c2=0,0
         vow=['a','e','i','o','u','A','E','I','O','U']
         l=len(s)
