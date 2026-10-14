@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/2025uee1226-bit/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/2025uee1226-bit/LeetCode/tree/master/0796-rotate-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/2025uee1226-bit/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/2025uee1226-bit/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1796-second-largest-digit-in-a-string](https://github.com/2025uee1226-bit/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1816-truncate-sentence](https://github.com/2025uee1226-bit/LeetCode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/2025uee1226-bit/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/2025uee1226-bit/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/2025uee1226-bit/LeetCode/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/2025uee1226-bit/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/2025uee1226-bit/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/2025uee1226-bit/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3467-transform-array-by-parity](https://github.com/2025uee1226-bit/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Prefix Sum
