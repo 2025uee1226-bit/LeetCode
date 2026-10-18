@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/2025uee1226-bit/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/2025uee1226-bit/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2025uee1226-bit/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/2025uee1226-bit/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2057-smallest-index-with-equal-value](https://github.com/2025uee1226-bit/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/2025uee1226-bit/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2025uee1226-bit/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/2025uee1226-bit/LeetCode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/2025uee1226-bit/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1929-concatenation-of-array](https://github.com/2025uee1226-bit/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/2025uee1226-bit/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2025uee1226-bit/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/2025uee1226-bit/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/2025uee1226-bit/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/2025uee1226-bit/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/2025uee1226-bit/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/2025uee1226-bit/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/2025uee1226-bit/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/2025uee1226-bit/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/2025uee1226-bit/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/2025uee1226-bit/LeetCode/tree/master/2942-find-words-containing-character) |
