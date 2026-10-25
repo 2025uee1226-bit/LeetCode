@@ -4,8 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :type k: int
         :rtype: int
-        """
+        
         rem=sum(nums)%k
-        return rem
+        return rem"""
+        return sum(nums)%k
 
         
